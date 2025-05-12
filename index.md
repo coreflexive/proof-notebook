@@ -1,6 +1,3 @@
-
-# Adam’s Notebook of Structured Derivations ✍️📐
-
 Welcome to my handwritten proof collection. Every proof is:
 - Written with care
 - Structured for clarity

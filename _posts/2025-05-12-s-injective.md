@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Injectivity of the Successor Function"
@@ -6,7 +5,7 @@ date: 2025-05-12
 tags: [peano, natural numbers, logic, injectivity]
 ---
 
-![S_injective proof](/proof-notebook/_images/2025-05-12_s_injective.jpg)
+![S_injective proof](_images/2025-05-12_s_injective.jpg)
 
 ### Summary
 
