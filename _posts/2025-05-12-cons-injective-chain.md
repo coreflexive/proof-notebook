@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Injectivity Chain via `cons` and Transitivity"
-date: 2025-05-12 13:10:00
+date: 2025-05-12
 tags: [lists, injectivity, transitivity, structured derivation]
 ---
 

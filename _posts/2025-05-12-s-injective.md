@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Injectivity of the Successor Function"
-date: 2025-05-12 10:30:00
+date: 2025-05-12
 tags: [peano, natural numbers, logic, injectivity]
 ---
 
