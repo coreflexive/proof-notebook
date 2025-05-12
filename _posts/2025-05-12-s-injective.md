@@ -5,7 +5,7 @@ date: 2025-05-12
 tags: [peano, natural numbers, logic, injectivity]
 ---
 
-![S_injective proof](assets/images/2025-05-12_s_injective.jpg)
+![S_injective proof](/assets/2025-05-12_s_injective.jpg)
 
 ### Summary
 
