@@ -7,10 +7,10 @@ tags: [lists, injectivity, transitivity, structured derivation]
 
 ### Theorem
 
-\[
+\\[
 \forall (X : \text{Type})\, (x\, y\, z : X)\, (l\, j : \text{list}\ X),\ 
   x :: y :: l = z :: j \land j = z :: l \Rightarrow x = y
-\]
+\\]
 
 ![Handwritten proof]({{ site.baseurl }}/assets/2025-05-12_cons_injective_chain.jpg)
 
