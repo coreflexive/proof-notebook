@@ -12,7 +12,7 @@ tags: [lists, injectivity, transitivity, structured derivation]
   x :: y :: l = z :: j \land j = z :: l \Rightarrow x = y
 \\]
 
-![Handwritten proof]({{ site.baseurl }}/assets/2025-05-12_cons_injective_chain.jpg)
+![Handwritten proof]({{ site.baseurl }}/assets/2025-05-12_cons-injective-chain.jpg)
 
 ### Summary
 
