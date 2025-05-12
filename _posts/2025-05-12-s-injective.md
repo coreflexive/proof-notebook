@@ -9,7 +9,7 @@ tags: [peano, natural numbers, logic, injectivity]
 
 A structured derivation of the injectivity of `S`, showing how from `S n = S m` we conclude `n = m`.
 
-![S_injective proof]({{ site.baseurl }}/assets/2025-05-12_s_injective.jpg)
+![S_injective proof]({{ site.baseurl }}/assets/2025-05-12_s-injective.jpg)
 
 ### Commentary
 
