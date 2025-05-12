@@ -5,12 +5,22 @@ date: 2025-05-12
 tags: [lists, injectivity, transitivity, structured derivation]
 ---
 
-### Theorem
+### Goal
+
+Here's a theorem about lists:
 
 \\[
 \forall (X : \text{Type})\, (x\, y\, z : X)\, (l\, j : \text{list}\ X),\ 
   x :: y :: l = z :: j \land j = z :: l \Rightarrow x = y
 \\]
+
+I'll show you my handwritten proof which uses the injectivity of the `cons` constructor for polymorphic lists.  Each data type has its own injection theorem, so when we say `injection` in a proof assistant like Coq, we get the the version appropriate to the type we're consuming.  This being an informal (handwritten) proof, we need to be clear about what injection means for our _particular_ proof.  For polymorphic lists, we would state the theorem informally. Perhaps we would write this:
+
+\\[
+ \[ x :: l = y :: j \Rightarrow x = y \wedge l = j\]
+\\]
+
+Let's not get to deep into the meaning of the square-brackets.  It means for us that the variables are universally quantified and implies that they all have the correct type.  Now for the proof.
 
 ![Handwritten proof]({{ site.baseurl }}/assets/2025-05-12_cons-injective-chain.jpg)
 
